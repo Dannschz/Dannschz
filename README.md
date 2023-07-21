@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dannschz
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning React
+- 🌱 I’m React Developer
 - 💞️ I’m looking to collaborate on React apps
 - 📫 How to reach me ...
 
